@@ -28,4 +28,4 @@ Apply DAX calculations and create visualizations.
 
 Data Access
 
-The dataset (sales2019.bak) is not included in this repository due to file format restrictions. DM me if you need access to the data.
+The dataset is not included in this repository due to file format restrictions.
