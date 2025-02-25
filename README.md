@@ -12,7 +12,7 @@ Append Data – Merge monthly sales tables (January to December) into a single d
 
 Data Cleaning – Remove duplicates, handle missing values, and convert data types appropriately.
 
-Data Storytelling with DAX – Create measures such as Total Sales, Profit, and Growth, and rank top products.
+Data Storytelling with DAX – Create measures such as Total Revenue and others
 
 Data Visualization – Use Power BI to generate bar charts for the top five products, sales trend line charts, and an interactive dashboard.
 
